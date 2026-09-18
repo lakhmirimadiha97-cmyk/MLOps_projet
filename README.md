@@ -1,6 +1,5 @@
 # Projet final — Pipeline MLOps de bout en bout
 
-Projet réalisé dans le cadre du cours MLOps (M2 Campus Cyber, Ali Mokh).
 
 Pipeline complet de machine learning, du chargement de la donnée jusqu'au
 service du modèle via une API, entièrement **exécutable en local**, sans
@@ -146,7 +145,7 @@ make docker-compose-up
   jamais, il charge une version versionnée depuis le registry — ce qui
   permet de changer de modèle en production sans redéployer de code.
 
-## Prochaines étapes possibles (non implémentées, pistes d'amélioration)
+##  étapes 
 
 - Détection de dérive des données (data drift) avec `evidently` ou
   `whylogs`.
