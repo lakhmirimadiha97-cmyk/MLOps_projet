@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+mlruns/
+mlartifacts/
+data/raw/
+data/processed/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+*.log
+model.pkl
